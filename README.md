@@ -7,8 +7,7 @@ The workflow builds a high-confidence database of B chromosome-specific k-mers f
 ---
 
 ## Workflow Overview
-
-![Pipeline Workflow](sandbox:/mnt/data/8714E222-33A5-475F-93E6-0277D60A42FB.png)
+![B chromosome detection pipeline](blob/main/figures/workflow.png)
 
 ---
 
